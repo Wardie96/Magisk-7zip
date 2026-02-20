@@ -8,7 +8,7 @@ This Magisk module injects the standalone static `7zz` binary into `/system/bin`
 - **Standalone Binary:** Includes the official `7zz` static binary.
 - **System-wide Access:** Injects into `/system/bin` for easy access from any terminal.
 - **Wide Compatibility:** Tested on various Android versions and root solutions (Magisk, APatch).
-
+- **Works In:** Works in a native adb shell or using the su binary - does not work in Termux with sudo you have to use the su binary with "su -c "7zz --help" (if you need to use native in Termux just download the same version from the package manager with "pkg install 7zip"
 ## Installation
 1. Download the latest release zip.
 2. Open the Magisk app (or your preferred module manager).
