@@ -1,0 +1,6 @@
+id=7zip-magisk
+name=7-Zip (7zz) Binary
+version=v1.0
+versionCode=1
+author=Wardie96
+description=Injects the static 7-Zip (7zz) binary into /system/bin.

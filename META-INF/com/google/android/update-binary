@@ -1,0 +1,5 @@
+#!/sbin/sh
+# Magisk Module Installer Script
+# The binary is just a placeholder, as Magisk handles the actual installation.
+# Reference: https://topjohnwu.github.io/Magisk/guides.html
+exit 0
