@@ -1,5 +1,7 @@
 # Magisk module build artifacts
 *.zip
+
+# My 7-Zip @include file for zipping up the module
 include.txt
 
 # Release folders
