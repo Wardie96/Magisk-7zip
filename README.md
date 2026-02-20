@@ -32,3 +32,6 @@ Open a terminal emulator (like Termux) and run:
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## Third Party Licenses
+This project uses the 7zz 7-Zip Binary by Igor Pavlov that is being licenced under the GNU General Public license v2.1 for redistribution.
